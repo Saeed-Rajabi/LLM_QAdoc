@@ -1,0 +1,1 @@
+Robot to search the PDF documents and answer the queries, it uses google/flan-t5-base hugging face LLM model (https://huggingface.co/google/flan-t5-base). To run the code you have hugging face API key (HF_API_KEY).
